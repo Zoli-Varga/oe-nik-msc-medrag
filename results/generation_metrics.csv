@@ -1,0 +1,4 @@
+system,n_in_domain,context_hit@4,BERTScore_F1,cosine_sim,faithfulness,citation_rate,citation_support,abstain_in_domain,abstain_out_of_scope,abstain_off_topic,abstain_health_not_covered,latency_s,judge_correctness,judge_relevance,judge_correct_rate(>=4)
+LLM without RAG (baseline 1),100,,0.15802409,0.8356111,,,,0.0,0.0,0.0,0.0,36.479627416531244,3.14,3.85,0.46
+BM25-only RAG (baseline 2),100,0.51,0.31371725,0.86730796,0.5778195488721805,0.9210526315789473,0.4595238095238095,0.24,0.95,1.0,0.9166666666666666,91.00384347438812,3.0,3.26,0.52
+Proposed RAG,100,0.94,0.35425958,0.88994616,0.6225643130815545,0.896551724137931,0.44551282051282054,0.13,1.0,1.0,1.0,35.991053527593614,3.51,4.02,0.69

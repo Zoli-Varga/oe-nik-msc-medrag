@@ -1,0 +1,20 @@
+# Install CUDA-enabled torch first if you have an NVIDIA GPU, e.g.:
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu118
+# (versions pinned so that torch 2.5 works; newer transformers requires torch>=2.6)
+torch>=2.2,<2.6
+sentence-transformers>=3.3,<5
+transformers>=4.44,<4.53
+faiss-cpu>=1.8
+bm25s>=0.2
+PyStemmer>=2.2
+bert-score>=0.3.13
+pandas>=2.0
+pyarrow>=14
+numpy<2.3
+requests>=2.31
+tqdm>=4.66
+matplotlib>=3.8
+# documentation / presentation builders
+python-docx>=1.1
+python-pptx>=1.0
+docx2pdf>=0.1.8

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/*
+!data/processed/eval_questions.parquet
+!data/processed/paraphrases.json
+data/index/
+docs/

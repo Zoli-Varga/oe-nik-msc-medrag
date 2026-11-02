@@ -1,0 +1,300 @@
+{"system": "no_rag", "qid": "Q001", "correctness": 2, "relevance": 4, "reason": "Incorrectly states the cause of the disease and omits several key symptoms and complications."}
+{"system": "bm25", "qid": "Q001", "correctness": 5, "relevance": 5, "reason": "The candidate's answer includes all the key symptoms listed in the reference answer."}
+{"system": "no_rag", "qid": "Q004", "correctness": 2, "relevance": 4, "reason": "missing key diagnostic test (CT scan) and fails to mention rare syndrome diagnosis"}
+{"system": "bm25", "qid": "Q004", "correctness": 4, "relevance": 5, "reason": "The candidate's answer is mostly correct, but lacks the phrase 'confirm the diagnosis'"}
+{"system": "no_rag", "qid": "Q006", "correctness": 2, "relevance": 4, "reason": "Incorrectly identifies risk factors, missing key details about congenital and acquired heart block."}
+{"system": "bm25", "qid": "Q006", "correctness": 4, "relevance": 4, "reason": "Candidate answer partially addresses the question, missing information on congenital heart block risk factors and acquired heart block causes."}
+{"system": "no_rag", "qid": "Q010", "correctness": 2, "relevance": 4, "reason": "Incorrect gene mutation and causes, but partially correct on symptoms and age of onset"}
+{"system": "bm25", "qid": "Q010", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q018", "correctness": 2, "relevance": 4, "reason": "Correctly identifies some treatment options, but lacks specificity and contradicts NIH reference on surgical procedure and contact lens prescription."}
+{"system": "bm25", "qid": "Q018", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks detail on the duration of pain and the need for registration to view the article."}
+{"system": "no_rag", "qid": "Q020", "correctness": 3, "relevance": 4, "reason": "Correctly identifies common side effects and some complications, but lacks specificity and detail on others."}
+{"system": "bm25", "qid": "Q020", "correctness": 4, "relevance": 5, "reason": "Candidate's answer fully covers the reference's key facts and addresses the question directly."}
+{"system": "no_rag", "qid": "Q021", "correctness": 2, "relevance": 4, "reason": "The candidate answer provides some common symptoms but lacks specificity and accuracy compared to the reference answer."}
+{"system": "bm25", "qid": "Q021", "correctness": 3, "relevance": 4, "reason": "Corrects key facts but lacks specificity and detail compared to the reference answer."}
+{"system": "no_rag", "qid": "Q022", "correctness": 4, "relevance": 5, "reason": "Correctly identifies the disorder and its effects, but lacks specific details about causes and differences from diabetes mellitus."}
+{"system": "bm25", "qid": "Q022", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides a clear overview of the condition, but lacks specific details and nuances compared to the reference answer."}
+{"system": "no_rag", "qid": "Q026", "correctness": 3, "relevance": 4, "reason": "Candidate answer provides some key risk factors but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q026", "correctness": 1, "relevance": 1, "reason": "Candidate answer does not address the question about who is at risk for angina."}
+{"system": "no_rag", "qid": "Q028", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides most key facts, but lacks direct quote from reference and some details."}
+{"system": "bm25", "qid": "Q028", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides key facts but lacks direct quotes from the reference."}
+{"system": "no_rag", "qid": "Q030", "correctness": 2, "relevance": 2, "reason": "Candidate answer partially addresses the question but lacks specificity and accuracy regarding the SCN9A gene mutation."}
+{"system": "bm25", "qid": "Q030", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts, but lacks detail on why pain episodes mainly occur in hands and feet."}
+{"system": "no_rag", "qid": "Q036", "correctness": 4, "relevance": 5, "reason": "Correctly explains autosomal recessive inheritance but lacks detail on carrier status and probabilities."}
+{"system": "bm25", "qid": "Q036", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q038", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides key facts about treatment options and monitoring, but lacks specificity on target blood glucose ranges and insulin prescription details."}
+{"system": "bm25", "qid": "Q038", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q040", "correctness": 4, "relevance": 5, "reason": "Correctly identifies treatment options and additional support for Dravet Syndrome, but lacks specificity on medication and surgery details."}
+{"system": "bm25", "qid": "Q040", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides mostly correct information, but lacks specificity on treatment benefits and caregiver assistance."}
+{"system": "no_rag", "qid": "Q047", "correctness": 3, "relevance": 5, "reason": "Correctly identifies the condition and its management, but lacks specific details and references to the reference answer."}
+{"system": "bm25", "qid": "Q047", "correctness": 3, "relevance": 4, "reason": "Correctly identifies management focus, but lacks specific treatment details."}
+{"system": "no_rag", "qid": "Q053", "correctness": 2, "relevance": 4, "reason": "Candidate answer provides some correct information, but lacks specific details and frequencies, and does not directly quote the reference answer."}
+{"system": "bm25", "qid": "Q053", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q058", "correctness": 3, "relevance": 4, "reason": "Correctly identifies the location and general nature of a preauricular sinus, but lacks detail on inheritance, treatment, and potential complications."}
+{"system": "bm25", "qid": "Q058", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides some correct information, but lacks specificity and includes unnecessary details."}
+{"system": "no_rag", "qid": "Q059", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides a clear explanation of the genetic changes and their impact on the condition, but lacks specific details about the SHANK3 gene and the formation of ring chromosome 22."}
+{"system": "bm25", "qid": "Q059", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts, but lacks specificity on inheritance mechanisms and mentions SHANK3 without referencing NIH's direct statement."}
+{"system": "no_rag", "qid": "Q070", "correctness": 1, "relevance": 1, "reason": "Candidate's answer contradicts the reference on inheritance pattern of SHORT syndrome."}
+{"system": "bm25", "qid": "Q070", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q071", "correctness": 4, "relevance": 4, "reason": "Correctly identifies treatment approaches, but lacks specific references and details."}
+{"system": "bm25", "qid": "Q071", "correctness": 3, "relevance": 4, "reason": "Correctly identifies some treatments, but lacks specificity and comprehensive information on MECP2-related severe neonatal encephalopathy."}
+{"system": "no_rag", "qid": "Q072", "correctness": 4, "relevance": 5, "reason": "Correctly states inheritance pattern and key facts, but lacks nuance and detail."}
+{"system": "bm25", "qid": "Q072", "correctness": 4, "relevance": 5, "reason": "Candidate answer accurately conveys key facts about inheritance pattern and gender-specific effects, but lacks nuance on inheritance from fathers and new mutations."}
+{"system": "no_rag", "qid": "Q076", "correctness": 3, "relevance": 4, "reason": "Corrects rarity, partially addresses genetic aspect, but lacks exact numbers and details on eye development."}
+{"system": "bm25", "qid": "Q076", "correctness": 5, "relevance": 5, "reason": "The candidate's answer is identical to the reference answer, providing no additional information."}
+{"system": "no_rag", "qid": "Q087", "correctness": 2, "relevance": 4, "reason": "Candidate's estimate is too high and does not specify the most common forms of osteogenesis imperfecta."}
+{"system": "bm25", "qid": "Q087", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q089", "correctness": 3, "relevance": 4, "reason": "Correctly identifies nerve damage and its causes, but lacks specificity on organ systems affected and prevalence rates."}
+{"system": "bm25", "qid": "Q089", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts, but lacks specificity on organ systems affected and causes of neuropathy."}
+{"system": "no_rag", "qid": "Q090", "correctness": 4, "relevance": 4, "reason": "Candidate answer mostly covers key facts, but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q090", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q093", "correctness": 3, "relevance": 4, "reason": "Correctly identifies treatment options, but lacks specificity and references to the NIH resources."}
+{"system": "bm25", "qid": "Q093", "correctness": 2, "relevance": 2, "reason": "Candidate's answer partially addresses the question but lacks specific treatment details."}
+{"system": "no_rag", "qid": "Q094", "correctness": 3, "relevance": 4, "reason": "missing details on treatment and age of onset"}
+{"system": "bm25", "qid": "Q094", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides a clear explanation of the disorder and its effects, but lacks specific details on the severity of symptoms and the impact of delayed onset cases."}
+{"system": "no_rag", "qid": "Q095", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides a comprehensive overview of treatment options, but lacks specificity on long-term outcomes and surgical intervention."}
+{"system": "bm25", "qid": "Q095", "correctness": 2, "relevance": 2, "reason": "Candidate's answer partially addresses the question but lacks key information about pain management and psychotherapy."}
+{"system": "no_rag", "qid": "Q096", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides a clear overview of myocarditis, but lacks specificity on causes and treatment options."}
+{"system": "bm25", "qid": "Q096", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q099", "correctness": 2, "relevance": 1, "reason": "Incorrectly identifies the genes and their relationship to familial hemiplegic migraine."}
+{"system": "bm25", "qid": "Q099", "correctness": 2, "relevance": 1, "reason": "fails to mention key genetic genes and their functions"}
+{"system": "no_rag", "qid": "Q102", "correctness": 3, "relevance": 4, "reason": "Correctly identifies pleurisy causes, but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q102", "correctness": 3, "relevance": 4, "reason": "missing causes like autoimmune disorders, cancer, and inflammatory bowel disease"}
+{"system": "no_rag", "qid": "Q110", "correctness": 5, "relevance": 1, "reason": "Candidate acknowledges lack of knowledge about Troyer Syndrome and offers to help find information."}
+{"system": "bm25", "qid": "Q110", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q113", "correctness": 2, "relevance": 4, "reason": "Incorrectly states the cause as a trigger, not a genetic mutation"}
+{"system": "bm25", "qid": "Q113", "correctness": 5, "relevance": 5, "reason": "Candidate accurately states the genetic cause and lack of preventable factors for Peters plus syndrome."}
+{"system": "no_rag", "qid": "Q114", "correctness": 3, "relevance": 4, "reason": "Missing key details about inheritance and potential complications"}
+{"system": "bm25", "qid": "Q114", "correctness": 2, "relevance": 4, "reason": "Missing key facts about inheritance and symptoms"}
+{"system": "no_rag", "qid": "Q126", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides a clear explanation of the condition, but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q126", "correctness": 4, "relevance": 5, "reason": "Candidate's key facts agree with the reference, but lacks specificity on inheritance and treatment details."}
+{"system": "no_rag", "qid": "Q133", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides a clear explanation of the genetic changes and their effects on brain development, but lacks specific details about the VLDLR protein's role in guiding nerve cells."}
+{"system": "bm25", "qid": "Q133", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the genetic changes and brain development issues related to VLDLR-associated cerebellar hypoplasia."}
+{"system": "no_rag", "qid": "Q136", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides some accurate information, but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q136", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides some correct information, but lacks detail and specificity compared to the reference answer."}
+{"system": "no_rag", "qid": "Q140", "correctness": 3, "relevance": 4, "reason": "Correctly identifies color changes and potential symptoms, but lacks specificity on microscopic hematuria and includes unrelated symptoms."}
+{"system": "bm25", "qid": "Q140", "correctness": 4, "relevance": 4, "reason": "Correctly identifies color change in urine, but lacks detail on gross vs. microscopic hematuria and potential symptoms."}
+{"system": "no_rag", "qid": "Q143", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks specific details on inheritance and treatment."}
+{"system": "bm25", "qid": "Q143", "correctness": 5, "relevance": 5, "reason": "The candidate's answer fully addresses the question and accurately conveys the key facts."}
+{"system": "no_rag", "qid": "Q152", "correctness": 3, "relevance": 4, "reason": "missing specific genetic cause and details on brain impact"}
+{"system": "bm25", "qid": "Q152", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately states the cause of fumarase deficiency and its effects."}
+{"system": "no_rag", "qid": "Q155", "correctness": 3, "relevance": 4, "reason": "Correctly identifies common symptoms, but lacks specificity and frequency information, and does not address rare symptoms or inheritance."}
+{"system": "bm25", "qid": "Q155", "correctness": 4, "relevance": 4, "reason": "Candidate answer includes most symptoms, but lacks specificity and frequency information."}
+{"system": "no_rag", "qid": "Q162", "correctness": 3, "relevance": 4, "reason": "Correctly identifies risk factors and general characteristics of CNS embryonal tumors, but lacks specificity and detail in the reference answer."}
+{"system": "bm25", "qid": "Q162", "correctness": 4, "relevance": 4, "reason": "Correctly identifies risk factors, but lacks specificity on age groups"}
+{"system": "no_rag", "qid": "Q168", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts, but lacks specificity on switching antibiotics and potential for infection recurrence."}
+{"system": "bm25", "qid": "Q168", "correctness": 4, "relevance": 4, "reason": "Correctly identifies antibiotics as treatment, but lacks details on duration and potential side effects."}
+{"system": "no_rag", "qid": "Q173", "correctness": 4, "relevance": 5, "reason": "Provides accurate information on treatments and management, but lacks specific references to support claims."}
+{"system": "bm25", "qid": "Q173", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q178", "correctness": 2, "relevance": 2, "reason": "Candidate partially addresses the question, but lacks key details about the syndrome's characteristics and causes."}
+{"system": "bm25", "qid": "Q178", "correctness": 5, "relevance": 5, "reason": "The candidate's answer fully addresses the question and presents accurate information."}
+{"system": "no_rag", "qid": "Q186", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides a comprehensive list of treatment options, but lacks specificity on the NIH reference's statement that 'there is no standard course of treatment' and that 'early diagnosis and interventions' are the best treatments."}
+{"system": "bm25", "qid": "Q186", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q187", "correctness": 4, "relevance": 4, "reason": "Correctly states Horner syndrome is not typically inherited, but does not mention the autosomal dominant pattern or lack of identified genes."}
+{"system": "bm25", "qid": "Q187", "correctness": 4, "relevance": 4, "reason": "Agrees with reference on autosomal dominant pattern, but omits 'usually not inherited' and 'nongenetic causes'."}
+{"system": "no_rag", "qid": "Q202", "correctness": 2, "relevance": 2, "reason": "Candidate's answer contains some correct information but lacks specificity and accuracy on treatment options and supplements."}
+{"system": "bm25", "qid": "Q202", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q210", "correctness": 4, "relevance": 5, "reason": "Correctly identifies symptoms and diagnostic tests, but lacks detail on family history and treatment options."}
+{"system": "bm25", "qid": "Q210", "correctness": 4, "relevance": 4, "reason": "Candidate's answer is mostly correct but lacks detail about imaging tests and family history."}
+{"system": "no_rag", "qid": "Q212", "correctness": 4, "relevance": 5, "reason": "Correctly states inheritance pattern and genetic cause, but includes additional information not present in the reference."}
+{"system": "bm25", "qid": "Q212", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately states the autosomal dominant inheritance pattern of optic atrophy type 1."}
+{"system": "no_rag", "qid": "Q213", "correctness": 4, "relevance": 4, "reason": "Correctly identifies key aspects of fetal health and development, but lacks specific details about prenatal tests and modern technology."}
+{"system": "bm25", "qid": "Q213", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q232", "correctness": 4, "relevance": 4, "reason": "Correctly identifies treatment options and genetic counseling, but lacks specificity on diagnostic tests and surgery details."}
+{"system": "bm25", "qid": "Q232", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q234", "correctness": 4, "relevance": 4, "reason": "Correctly identifies therapy and medication options, but lacks specificity on parental involvement and environmental changes."}
+{"system": "bm25", "qid": "Q234", "correctness": 2, "relevance": 2, "reason": "Incorrectly states drug therapy is effective alone and misses parental involvement and CBT as treatment options."}
+{"system": "no_rag", "qid": "Q239", "correctness": 4, "relevance": 5, "reason": "Candidate's answer covers key facts about healthy living, but lacks specific details from the reference."}
+{"system": "bm25", "qid": "Q239", "correctness": 4, "relevance": 5, "reason": "The candidate's answer provides a comprehensive list of healthy living tips, aligning with the reference answer."}
+{"system": "no_rag", "qid": "Q247", "correctness": 3, "relevance": 4, "reason": "Missing details on vaccine efficacy and treatment options, but correctly identifies key prevention measures."}
+{"system": "bm25", "qid": "Q247", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most of the correct information, but lacks specificity on vaccine development and efficacy."}
+{"system": "no_rag", "qid": "Q253", "correctness": 4, "relevance": 4, "reason": "Candidate's answer includes key facts about TSE research, but lacks specificity and directness compared to the reference answer."}
+{"system": "bm25", "qid": "Q253", "correctness": 2, "relevance": 1, "reason": "Candidate's answer is off-topic and only mentions a specific clinical trial, whereas the reference answer discusses broader research efforts on TSEs."}
+{"system": "no_rag", "qid": "Q264", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides a clear explanation of the genetic cause and symptoms of dopamine transporter deficiency syndrome, but lacks detail on the role of the dopamine transporter and the relationship between transporter activity and disease onset."}
+{"system": "bm25", "qid": "Q264", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the genetic cause and effects of dopamine transporter deficiency syndrome."}
+{"system": "no_rag", "qid": "Q270", "correctness": 4, "relevance": 5, "reason": "Correctly identifies vaginal cancer and its potential causes, but lacks specific details on risk factors and symptoms."}
+{"system": "bm25", "qid": "Q270", "correctness": 4, "relevance": 5, "reason": "Candidate's answer provides most key facts, but lacks information on symptoms and treatment options."}
+{"system": "no_rag", "qid": "Q272", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides a clear explanation of the genetic cause and inheritance pattern of N-acetylglutamate synthase deficiency, but lacks specific details about the role of the enzyme and the consequences of its deficiency."}
+{"system": "bm25", "qid": "Q272", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides key facts but lacks detail and nuance compared to the reference answer."}
+{"system": "no_rag", "qid": "Q276", "correctness": 2, "relevance": 4, "reason": "Missing key genetic detail about CTNND2 gene and varying deletion sizes."}
+{"system": "bm25", "qid": "Q276", "correctness": 3, "relevance": 4, "reason": "Missing specific details about the size of the deletion and the role of CTNND2 gene"}
+{"system": "no_rag", "qid": "Q281", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks specific details about the ACADVL gene and the impact on very long-chain fatty acids."}
+{"system": "bm25", "qid": "Q281", "correctness": 1, "relevance": 1, "reason": "completely contradicts the reference and does not address the question"}
+{"system": "no_rag", "qid": "Q295", "correctness": 4, "relevance": 4, "reason": "Correctly identifies Ig replacement therapy and potential additional treatments, but lacks specificity and detail compared to the reference."}
+{"system": "bm25", "qid": "Q295", "correctness": 5, "relevance": 5, "reason": "The answer directly and completely addresses the question and agrees with the reference."}
+{"system": "no_rag", "qid": "Q298", "correctness": 3, "relevance": 4, "reason": "Correctly identifies symptoms in older children and adults, but partially misses the fact that mild cases may not have noticeable symptoms in infants."}
+{"system": "bm25", "qid": "Q298", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q299", "correctness": 4, "relevance": 4, "reason": "Correctly identifies common treatments, but lacks specificity on severity and mentions gene therapy as a future treatment, not a current option."}
+{"system": "bm25", "qid": "Q299", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q313", "correctness": 2, "relevance": 4, "reason": "Incorrectly states prevalence and fails to mention gender disparity"}
+{"system": "bm25", "qid": "Q313", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q319", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides relevant risk factors but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q319", "correctness": 3, "relevance": 4, "reason": "Candidate's answer partially addresses the question, but lacks specificity and detail compared to the reference answer."}
+{"system": "no_rag", "qid": "Q329", "correctness": 3, "relevance": 4, "reason": "Correctly identifies the condition and its connection to other diseases, but lacks specific details and severity information."}
+{"system": "bm25", "qid": "Q329", "correctness": 2, "relevance": 4, "reason": "Missing key details about the cause and specific symptoms of MCTD"}
+{"system": "no_rag", "qid": "Q333", "correctness": 2, "relevance": 4, "reason": "Incorrectly states the inheritance pattern and omits details about the CBS and MTHFR genes."}
+{"system": "bm25", "qid": "Q333", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q346", "correctness": 3, "relevance": 4, "reason": "Correctly identifies genetic cause and symptoms, but lacks specificity on gene mutations and details on normal kidney function."}
+{"system": "bm25", "qid": "Q346", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q349", "correctness": 2, "relevance": 4, "reason": "Missing key facts and incorrect frequency estimates"}
+{"system": "bm25", "qid": "Q349", "correctness": 4, "relevance": 4, "reason": "Candidate answer includes most key facts, but lacks specificity and frequency information."}
+{"system": "no_rag", "qid": "Q351", "correctness": 3, "relevance": 4, "reason": "missing specific gene details and functional implications"}
+{"system": "bm25", "qid": "Q351", "correctness": 4, "relevance": 5, "reason": "Candidate's answer provides key facts about the genetic changes related to Alport syndrome, but lacks some detail about the specific structures and functions affected."}
+{"system": "no_rag", "qid": "Q360", "correctness": 3, "relevance": 4, "reason": "Correctly identifies PSC as linked to IBD, but lacks specificity on exact causes and mechanisms."}
+{"system": "bm25", "qid": "Q360", "correctness": 2, "relevance": 2, "reason": "Candidate answer partially addresses the question but incorrectly states the role of genetic variations and environmental factors."}
+{"system": "no_rag", "qid": "Q361", "correctness": 2, "relevance": 2, "reason": "Candidate answer partially addresses the question but lacks specificity and accuracy on key facts."}
+{"system": "bm25", "qid": "Q361", "correctness": 3, "relevance": 4, "reason": "Candidate answer includes most key facts but lacks specific frequencies and definitions."}
+{"system": "no_rag", "qid": "Q367", "correctness": 3, "relevance": 4, "reason": "Agrees on genetic influence and complexity, but lacks specificity on reference answers."}
+{"system": "bm25", "qid": "Q367", "correctness": 4, "relevance": 5, "reason": "The candidate's answer accurately conveys the multifactorial nature of EA/TEF and provides relevant examples, but lacks specificity in some details."}
+{"system": "no_rag", "qid": "Q379", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides a clear and comprehensive overview of late-infantile neuronal ceroid lipofuscinosis, aligning with the reference answer in terms of key facts and symptoms."}
+{"system": "bm25", "qid": "Q379", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks specific details about the different types of NCLs."}
+{"system": "no_rag", "qid": "Q381", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks specific details about NINDS funding and the biological mechanisms of cerebral atrophy."}
+{"system": "bm25", "qid": "Q381", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q394", "correctness": 4, "relevance": 4, "reason": "Correctly identifies key diagnostic methods, but lacks specificity about genetic testing and family history."}
+{"system": "bm25", "qid": "Q394", "correctness": 4, "relevance": 4, "reason": "Correctly identifies genetic testing as a diagnostic method, but lacks specificity about the gene and test details."}
+{"system": "no_rag", "qid": "Q398", "correctness": 4, "relevance": 4, "reason": "Candidate's answer partially addresses the question, but lacks specificity and clarity on the exact cause."}
+{"system": "bm25", "qid": "Q398", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q401", "correctness": 1, "relevance": 1, "reason": "completely contradicts the reference"}
+{"system": "bm25", "qid": "Q401", "correctness": 4, "relevance": 5, "reason": "The candidate's answer accurately conveys the key facts about the inheritance patterns of isolated ectopia lentis, but could be more concise."}
+{"system": "no_rag", "qid": "Q411", "correctness": 2, "relevance": 4, "reason": "Candidate's estimate of prevalence is close, but lacks specificity and clarity."}
+{"system": "bm25", "qid": "Q411", "correctness": 5, "relevance": 5, "reason": "The candidate's answer directly states the prevalence of propionic acidemia in the US, matching the reference."}
+{"system": "no_rag", "qid": "Q417", "correctness": 4, "relevance": 4, "reason": "Correctly identifies treatment focus and some medication options, but lacks specific details and references from the NIH."}
+{"system": "bm25", "qid": "Q417", "correctness": 3, "relevance": 2, "reason": "Missing specific treatment details, but addresses symptoms and specialists involved."}
+{"system": "no_rag", "qid": "Q418", "correctness": 2, "relevance": 2, "reason": "Candidate answer partially addresses patient safety but misses key facts and details from the reference answer."}
+{"system": "bm25", "qid": "Q418", "correctness": 1, "relevance": 1, "reason": "completely off-topic and unrelated to patient safety"}
+{"system": "no_rag", "qid": "Q428", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides some accurate information, but lacks specificity and clarity on NIH involvement."}
+{"system": "bm25", "qid": "Q428", "correctness": 2, "relevance": 4, "reason": "Provides some relevant information but lacks key details about NIH research and clinical trials."}
+{"system": "no_rag", "qid": "Q434", "correctness": 2, "relevance": 4, "reason": "missing details on genetic cause and prevalence"}
+{"system": "bm25", "qid": "Q434", "correctness": 3, "relevance": 4, "reason": "missing details on inheritance pattern and prevalence"}
+{"system": "no_rag", "qid": "Q441", "correctness": 3, "relevance": 4, "reason": "Candidate provides some relevant information about Schilder's Disease, but lacks specificity and current data on ongoing research."}
+{"system": "bm25", "qid": "Q441", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q444", "correctness": 2, "relevance": 4, "reason": "Incorrectly states the inheritance pattern and genes involved"}
+{"system": "bm25", "qid": "Q444", "correctness": 4, "relevance": 4, "reason": "Candidate's answer is mostly correct, but omits the mention of a non-hereditary form of cerebral amyloid angiopathy."}
+{"system": "no_rag", "qid": "Q445", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks detail on the exact cause and potential complications."}
+{"system": "bm25", "qid": "Q445", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the key facts about autoimmune myocarditis, including its definition, symptoms, and treatment."}
+{"system": "no_rag", "qid": "Q450", "correctness": 2, "relevance": 4, "reason": "Missing specific details on frequency and inheritance, but includes some key symptoms and potential complications."}
+{"system": "bm25", "qid": "Q450", "correctness": 4, "relevance": 4, "reason": "Correctly identifies key symptoms and mentions frequency information from the Human Phenotype Ontology, but lacks specificity and detail compared to the reference answer."}
+{"system": "no_rag", "qid": "Q455", "correctness": 4, "relevance": 5, "reason": "Correctly states inheritance pattern, but could be more precise with details"}
+{"system": "bm25", "qid": "Q455", "correctness": 4, "relevance": 5, "reason": "Candidate's key facts about inheritance pattern are mostly correct, but could be more precise."}
+{"system": "no_rag", "qid": "Q458", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides key facts but lacks detail and nuance compared to the reference answer."}
+{"system": "bm25", "qid": "Q458", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides most key facts, but lacks specificity on inheritance types and includes unrelated information about different types."}
+{"system": "no_rag", "qid": "Q465", "correctness": 5, "relevance": 5, "reason": "The candidate's answer directly and completely addresses the question and agrees with the reference."}
+{"system": "bm25", "qid": "Q465", "correctness": 5, "relevance": 5, "reason": "The candidate's answer fully and accurately addresses the question."}
+{"system": "no_rag", "qid": "Q468", "correctness": 2, "relevance": 2, "reason": "Candidate answer partially addresses the genetic cause but misses key details and introduces irrelevant information about amino acids and environmental factors."}
+{"system": "bm25", "qid": "Q468", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q474", "correctness": 1, "relevance": 1, "reason": "Incorrect inheritance pattern and explanation of autosomal recessive"}
+{"system": "bm25", "qid": "Q474", "correctness": 4, "relevance": 5, "reason": "Correctly states the X-linked pattern of inheritance and its implications, but lacks nuance on the normal range for females."}
+{"system": "no_rag", "qid": "Q478", "correctness": 2, "relevance": 1, "reason": "Incorrectly states the condition is not related to epilepsy symptoms"}
+{"system": "bm25", "qid": "Q478", "correctness": 2, "relevance": 4, "reason": "Missing key facts and incorrect frequency information, but addresses the question."}
+{"system": "no_rag", "qid": "Q486", "correctness": 2, "relevance": 4, "reason": "Corrects key facts but lacks specificity and detail compared to the reference answer."}
+{"system": "bm25", "qid": "Q486", "correctness": 4, "relevance": 5, "reason": "Candidate's answer provides a clear and comprehensive explanation of the condition, including its causes and effects."}
+{"system": "no_rag", "qid": "Q488", "correctness": 2, "relevance": 4, "reason": "Candidate answer partially addresses genetic changes but lacks detail on specific genes and mechanisms."}
+{"system": "bm25", "qid": "Q488", "correctness": 2, "relevance": 2, "reason": "Missing key genetic information and fails to explain the underlying mechanisms of vitiligo."}
+{"system": "no_rag", "qid": "Q491", "correctness": 3, "relevance": 4, "reason": "Correctly identifies the genetic change and protein involved, but lacks detail on the CGG triplet repeat and its expansion."}
+{"system": "bm25", "qid": "Q491", "correctness": 2, "relevance": 1, "reason": "fails to mention the specific genetic change (CGG triplet repeat) and its impact on the FMR1 gene"}
+{"system": "no_rag", "qid": "Q495", "correctness": 4, "relevance": 4, "reason": "Correctly identifies treatments and management options, but lacks specificity and details."}
+{"system": "bm25", "qid": "Q495", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "no_rag", "qid": "Q496", "correctness": 4, "relevance": 5, "reason": "Correctly identifies treatment options, but lacks specificity on the best treatment plan depending on the type and stage of ovarian cancer."}
+{"system": "bm25", "qid": "Q496", "correctness": 4, "relevance": 5, "reason": "Correctly identifies key treatments and mentions unique features of individual diagnoses"}
+{"system": "no_rag", "qid": "Q498", "correctness": 2, "relevance": 4, "reason": "Correctly identifies some treatments, but lacks specificity and accuracy on others."}
+{"system": "bm25", "qid": "Q498", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately summarizes the reference answer and addresses the question directly."}
+{"system": "proposed", "qid": "Q001", "correctness": 4, "relevance": 5, "reason": "Candidate answer includes most symptoms, but lacks frequency information and does not address inheritance."}
+{"system": "proposed", "qid": "Q004", "correctness": 4, "relevance": 4, "reason": "Candidate's answer includes correct key facts, but lacks the CT scan and ultrasound confirmation mentioned in the reference."}
+{"system": "proposed", "qid": "Q006", "correctness": 3, "relevance": 4, "reason": "Missing key details about congenital heart block risk factors and conditions that increase risk for acquired heart block."}
+{"system": "proposed", "qid": "Q010", "correctness": 4, "relevance": 5, "reason": "Candidate's answer fully addresses the question and includes all key facts."}
+{"system": "proposed", "qid": "Q018", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately summarizes the reference answer, including all key treatments and their descriptions."}
+{"system": "proposed", "qid": "Q020", "correctness": 4, "relevance": 4, "reason": "Candidate's answer includes most complications, but incorrectly mentions treatment side effects and omits 'painful, frequent, and urgent need to urinate, with fever and chills' as a symptom requiring immediate medical care."}
+{"system": "proposed", "qid": "Q021", "correctness": 3, "relevance": 4, "reason": "The candidate's answer includes some correct key facts, but lacks specificity and detail, and does not address all the symptoms listed in the reference."}
+{"system": "proposed", "qid": "Q022", "correctness": 4, "relevance": 5, "reason": "Correctly explains the cause and symptoms of neurohypophyseal diabetes insipidus, but lacks specific details about treatment options and distinctions from diabetes mellitus."}
+{"system": "proposed", "qid": "Q026", "correctness": 4, "relevance": 5, "reason": "Candidate answer includes most key risk factors and demographic information, but lacks specificity on microvascular angina and variant angina."}
+{"system": "proposed", "qid": "Q028", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately states the symptoms and timing of lactose intolerance, and addresses the question directly."}
+{"system": "proposed", "qid": "Q030", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides key facts but lacks detail and context compared to the reference answer."}
+{"system": "proposed", "qid": "Q036", "correctness": 4, "relevance": 5, "reason": "Correctly states inheritance patterns and carrier status, but lacks detail on probabilities and inheritance variability."}
+{"system": "proposed", "qid": "Q038", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the main treatment approach for gestational diabetes."}
+{"system": "proposed", "qid": "Q040", "correctness": 3, "relevance": 4, "reason": "Provides relevant information on treatments and some symptoms, but lacks key facts and contradicts NIH reference on cognitive function."}
+{"system": "proposed", "qid": "Q047", "correctness": 5, "relevance": 5, "reason": "The candidate's answer directly and completely addresses the question and agrees with the reference."}
+{"system": "proposed", "qid": "Q053", "correctness": 3, "relevance": 4, "reason": "Provides some correct information, but lacks specific frequencies and details."}
+{"system": "proposed", "qid": "Q058", "correctness": 4, "relevance": 5, "reason": "Candidate's answer fully addresses the question and includes all key facts."}
+{"system": "proposed", "qid": "Q059", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts, but lacks specificity on inheritance and balanced translocation."}
+{"system": "proposed", "qid": "Q070", "correctness": 4, "relevance": 5, "reason": "Candidate's answer provides correct key facts about inheritance pattern and genetic basis of SHORT syndrome, but lacks clarity on the role of new mutations."}
+{"system": "proposed", "qid": "Q071", "correctness": 3, "relevance": 4, "reason": "Correctly identifies some treatments, but lacks specificity and references to diagnostic or management resources."}
+{"system": "proposed", "qid": "Q072", "correctness": 4, "relevance": 5, "reason": "Candidate answer accurately conveys the X-linked recessive inheritance pattern and its implications, but lacks nuance on the specifics of carrier status and inheritance probabilities."}
+{"system": "proposed", "qid": "Q076", "correctness": 5, "relevance": 5, "reason": "The candidate's answer is identical to the reference answer, conveying the same information about the rarity and identification of Lenz microphthalmia syndrome."}
+{"system": "proposed", "qid": "Q087", "correctness": 4, "relevance": 4, "reason": "missing specific form prevalence"}
+{"system": "proposed", "qid": "Q089", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly covers key facts, but lacks specificity on risk factors and treatment details."}
+{"system": "proposed", "qid": "Q090", "correctness": 3, "relevance": 4, "reason": "Correctly identifies some symptoms, but lacks detail and contradicts reference on internal bleeding and severity."}
+{"system": "proposed", "qid": "Q093", "correctness": 2, "relevance": 2, "reason": "Candidate's answer partially addresses the question but lacks specific treatment details."}
+{"system": "proposed", "qid": "Q094", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides a clear explanation of the disorder and its symptoms, but lacks specific details on the prevalence and treatment options."}
+{"system": "proposed", "qid": "Q095", "correctness": 4, "relevance": 4, "reason": "Candidate's answer includes correct pain management and surgical intervention details, but lacks specificity on the type of surgical intervention and its outcomes."}
+{"system": "proposed", "qid": "Q096", "correctness": 4, "relevance": 4, "reason": "Candidate's answer mostly agrees with the reference, but lacks detail on causes and treatment specifics."}
+{"system": "proposed", "qid": "Q099", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides key genetic information and mentions researchers' search for additional genetic changes, but lacks detail on the mechanism of neurotransmitter release and signaling."}
+{"system": "proposed", "qid": "Q102", "correctness": 4, "relevance": 4, "reason": "Candidate answer covers most causes, but lacks specificity and detail compared to the reference answer."}
+{"system": "proposed", "qid": "Q110", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q113", "correctness": 4, "relevance": 4, "reason": "Candidate correctly identifies Peters plus syndrome as genetic and autosomal recessive, but lacks detail on inheritance and prevention."}
+{"system": "proposed", "qid": "Q114", "correctness": 4, "relevance": 5, "reason": "Correctly identifies the disorder and its inheritance pattern, but lacks specific details on the enzyme deficiency and its effects on the body."}
+{"system": "proposed", "qid": "Q126", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the key facts about chromosome 5q deletion."}
+{"system": "proposed", "qid": "Q133", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the genetic changes and brain development issues related to VLDLR-associated cerebellar hypoplasia."}
+{"system": "proposed", "qid": "Q136", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides some key details about clinical trials for adult primary liver cancer, but lacks comprehensive information about ongoing studies and treatment options."}
+{"system": "proposed", "qid": "Q140", "correctness": 4, "relevance": 5, "reason": "Correctly identifies key symptoms and conditions, but lacks specificity on microscopic hematuria."}
+{"system": "proposed", "qid": "Q143", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides most key facts, but lacks detail on protein function and inheritance pattern."}
+{"system": "proposed", "qid": "Q152", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the cause and effects of fumarase deficiency, directly addressing the question."}
+{"system": "proposed", "qid": "Q155", "correctness": 3, "relevance": 4, "reason": "Includes some correct symptoms but lacks specificity and references to the reference answer."}
+{"system": "proposed", "qid": "Q162", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately lists the genetic conditions that increase the risk of childhood CNS embryonal tumors and encourages seeking medical advice."}
+{"system": "proposed", "qid": "Q168", "correctness": 2, "relevance": 4, "reason": "Incorrectly states that antibiotics can be given directly into the bloodstream or as an injection, which is not mentioned in the reference answer."}
+{"system": "proposed", "qid": "Q173", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q178", "correctness": 4, "relevance": 4, "reason": "Candidate's answer includes key facts, but lacks specificity on cause and age range."}
+{"system": "proposed", "qid": "Q186", "correctness": 5, "relevance": 5, "reason": "The candidate's answer matches the reference answer in content and structure."}
+{"system": "proposed", "qid": "Q187", "correctness": 4, "relevance": 5, "reason": "Candidate's answer correctly states the autosomal dominant pattern, but omits the lack of identified genes associated with Horner syndrome."}
+{"system": "proposed", "qid": "Q202", "correctness": 4, "relevance": 5, "reason": "The candidate's answer fully addresses the question and includes all relevant treatment options."}
+{"system": "proposed", "qid": "Q210", "correctness": 4, "relevance": 5, "reason": "The candidate's answer provides a comprehensive overview of the diagnostic process for kidney stones, including physical exam, medical history, and imaging tests."}
+{"system": "proposed", "qid": "Q212", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q213", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the key facts about fetal health and development, and directly addresses the question."}
+{"system": "proposed", "qid": "Q232", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q234", "correctness": 4, "relevance": 5, "reason": "Answered the question directly and included all key treatment options for Trichotillomania."}
+{"system": "proposed", "qid": "Q239", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q247", "correctness": 4, "relevance": 5, "reason": "Correctly identifies prevention measures and key facts, but lacks a mention of vaccine development and efficacy."}
+{"system": "proposed", "qid": "Q253", "correctness": 2, "relevance": 4, "reason": "Candidate answer partially addresses the question but lacks specificity about the therapy and does not mention NINDS or other research efforts."}
+{"system": "proposed", "qid": "Q264", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the genetic cause and effects of dopamine transporter deficiency syndrome."}
+{"system": "proposed", "qid": "Q270", "correctness": 4, "relevance": 4, "reason": "Candidate answer mostly agrees with reference, but lacks specificity on HPV and DES risk factors."}
+{"system": "proposed", "qid": "Q272", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts but lacks detail on inheritance pattern."}
+{"system": "proposed", "qid": "Q276", "correctness": 4, "relevance": 5, "reason": "Candidate's answer accurately conveys the genetic cause and its relation to intellectual disability, but lacks a direct quote from the reference."}
+{"system": "proposed", "qid": "Q281", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q295", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q298", "correctness": 2, "relevance": 4, "reason": "Correctly identifies some symptoms, but includes many irrelevant and incorrect details."}
+{"system": "proposed", "qid": "Q299", "correctness": 4, "relevance": 4, "reason": "Most key facts match the reference, but the candidate mentions bone marrow transplant and stem cell transplant as treatments for severe cases, which is not explicitly stated in the reference."}
+{"system": "proposed", "qid": "Q313", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q319", "correctness": 4, "relevance": 4, "reason": "Candidate's answer provides correct information on age and gender risk, but lacks specificity on the causes and risk factors."}
+{"system": "proposed", "qid": "Q329", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides a clear overview of the disorder, but lacks specific details on the exact cause and diagnostic methods."}
+{"system": "proposed", "qid": "Q333", "correctness": 4, "relevance": 4, "reason": "Candidate answer provides most key facts but lacks detail on the role of MTHFR, MTR, and MTRR genes and the autosomal recessive inheritance pattern."}
+{"system": "proposed", "qid": "Q346", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q349", "correctness": 4, "relevance": 4, "reason": "Candidate answer includes most key facts, but lacks specificity and detail compared to the reference answer."}
+{"system": "proposed", "qid": "Q351", "correctness": 4, "relevance": 5, "reason": "Correctly identifies the genetic cause and key effects of Alport syndrome, but lacks detail on the role of type IV collagen in the eye."}
+{"system": "proposed", "qid": "Q360", "correctness": 4, "relevance": 4, "reason": "Correctly identifies genetic and environmental factors, but lacks clarity on the exact mechanisms and triggers."}
+{"system": "proposed", "qid": "Q361", "correctness": 2, "relevance": 4, "reason": "Candidate answer partially includes correct key facts but lacks specificity and detail compared to the reference."}
+{"system": "proposed", "qid": "Q367", "correctness": 4, "relevance": 4, "reason": "Candidate answer partially addresses the question and includes some correct information, but lacks specificity and detail."}
+{"system": "proposed", "qid": "Q379", "correctness": 4, "relevance": 5, "reason": "The candidate's answer provides a comprehensive overview of late-infantile neuronal ceroid lipofuscinosis, including its symptoms, progression, and impact on daily life."}
+{"system": "proposed", "qid": "Q381", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the NIH's information and directly addresses the question."}
+{"system": "proposed", "qid": "Q394", "correctness": 2, "relevance": 2, "reason": "Incorrectly states the test can diagnose Fragile X, missing carrier and prenatal testing options."}
+{"system": "proposed", "qid": "Q398", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q401", "correctness": 4, "relevance": 4, "reason": "Candidate answer mostly correctly states inheritance patterns but lacks specificity on autosomal recessive cases."}
+{"system": "proposed", "qid": "Q411", "correctness": 5, "relevance": 5, "reason": "The candidate's answer directly states the prevalence of propionic acidemia in the US, matching the reference."}
+{"system": "proposed", "qid": "Q417", "correctness": 4, "relevance": 4, "reason": "Correctly identifies some treatment resources, but lacks specificity and detail."}
+{"system": "proposed", "qid": "Q418", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q428", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q434", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides a clear and comprehensive overview of FOP, including its causes, symptoms, and inheritance pattern."}
+{"system": "proposed", "qid": "Q441", "correctness": 1, "relevance": 1, "reason": "abstained"}
+{"system": "proposed", "qid": "Q444", "correctness": 2, "relevance": 4, "reason": "Incorrectly states the probability of inheritance, but correctly identifies autosomal dominant pattern."}
+{"system": "proposed", "qid": "Q445", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the key facts about autoimmune myocarditis, including its definition, symptoms, and treatment."}
+{"system": "proposed", "qid": "Q450", "correctness": 2, "relevance": 4, "reason": "Candidate answer includes some correct symptoms but also introduces additional and unverified symptoms not listed in the reference."}
+{"system": "proposed", "qid": "Q455", "correctness": 4, "relevance": 5, "reason": "Correctly states inheritance pattern and carrier risk, but lacks detail on parental symptoms."}
+{"system": "proposed", "qid": "Q458", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides most key facts, but lacks specificity on cause and inheritance."}
+{"system": "proposed", "qid": "Q465", "correctness": 5, "relevance": 5, "reason": "The candidate's answer directly and completely addresses the question and agrees with the reference."}
+{"system": "proposed", "qid": "Q468", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the genetic cause and mechanism of trimethylaminuria, directly addressing the question."}
+{"system": "proposed", "qid": "Q474", "correctness": 2, "relevance": 4, "reason": "Incorrectly states that females can inherit the condition from their fathers."}
+{"system": "proposed", "qid": "Q478", "correctness": 2, "relevance": 4, "reason": "The candidate answer partially addresses the question but lacks specific details and frequencies, and includes some incorrect information."}
+{"system": "proposed", "qid": "Q486", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides a clear and comprehensive description of the condition, including its causes and inheritance pattern."}
+{"system": "proposed", "qid": "Q488", "correctness": 4, "relevance": 5, "reason": "Candidate answer provides key genetic information and explains the role of NLRP1 and PTPN22 genes, but lacks detail on the relationship between gene variations and inflammation, and the role of environmental factors."}
+{"system": "proposed", "qid": "Q491", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately conveys the genetic changes related to fragile X syndrome and addresses the question directly."}
+{"system": "proposed", "qid": "Q495", "correctness": 2, "relevance": 4, "reason": "Candidate provides some relevant information, but lacks specificity and contradicts NIH reference on idebenone therapy and acupuncture."}
+{"system": "proposed", "qid": "Q496", "correctness": 4, "relevance": 5, "reason": "Correctly identifies treatment options and acknowledges variability in treatment depending on cancer type and stage."}
+{"system": "proposed", "qid": "Q498", "correctness": 5, "relevance": 5, "reason": "The candidate's answer accurately summarizes the reference answer, covering key treatments and management strategies for Noonan syndrome."}

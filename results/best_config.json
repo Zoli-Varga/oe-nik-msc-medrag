@@ -1,0 +1,9 @@
+{
+ "best_dense": "Dense (medembed-base)",
+ "best_hybrid": "Hybrid BM25+medembed-base (RRF)",
+ "final_system": "Dense (medembed-base)",
+ "first_stage": "dense",
+ "rerank_order": false,
+ "best_embedding": "medembed-base",
+ "abstain_threshold": 0.44464180472500003
+}

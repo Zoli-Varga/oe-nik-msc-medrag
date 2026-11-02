@@ -1,0 +1,22 @@
+[
+  {"qid": "O01", "category": "health, not covered", "question": "Is the COVID-19 mRNA vaccine safe during pregnancy?"},
+  {"qid": "O02", "category": "health, not covered", "question": "How long do long COVID symptoms usually last?"},
+  {"qid": "O03", "category": "health, not covered", "question": "What are the side effects of semaglutide (Ozempic) for weight loss?"},
+  {"qid": "O04", "category": "health, not covered", "question": "What is the recommended ibuprofen dose for a 4-year-old child with fever?"},
+  {"qid": "O05", "category": "health, not covered", "question": "How does the mpox vaccine work and who should get it?"},
+  {"qid": "O06", "category": "health, not covered", "question": "Can I take paracetamol together with my blood pressure pills?"},
+  {"qid": "O07", "category": "health, not covered", "question": "Which is better for lower back pain, a firm or a soft mattress?"},
+  {"qid": "O08", "category": "health, not covered", "question": "How many steps a day should I walk to lose weight?"},
+  {"qid": "O09", "category": "health, not covered", "question": "Is intermittent fasting 16:8 safe for teenagers?"},
+  {"qid": "O10", "category": "health, not covered", "question": "Does blue light from phone screens damage the eyes of children?"},
+  {"qid": "O11", "category": "health, not covered", "question": "What is the best time of day to take vitamin D supplements?"},
+  {"qid": "O12", "category": "health, not covered", "question": "How long after a tattoo can I donate blood in Hungary?"},
+  {"qid": "O13", "category": "off-topic", "question": "How do I fix a flat tire on my bicycle?"},
+  {"qid": "O14", "category": "off-topic", "question": "What is the capital of Australia?"},
+  {"qid": "O15", "category": "off-topic", "question": "How can I reset my Wi-Fi router password?"},
+  {"qid": "O16", "category": "off-topic", "question": "Who won the football World Cup in 2014?"},
+  {"qid": "O17", "category": "off-topic", "question": "What is a good recipe for chocolate chip cookies?"},
+  {"qid": "O18", "category": "off-topic", "question": "How do I write a for loop in Python?"},
+  {"qid": "O19", "category": "off-topic", "question": "What is the difference between a stock and a bond?"},
+  {"qid": "O20", "category": "off-topic", "question": "How far is the Moon from the Earth?"}
+]
